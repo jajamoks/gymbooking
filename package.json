@@ -1,0 +1,38 @@
+{
+  "name": "cloud-fitness",
+  "version": "1.0.0",
+  "description": "Gym Web Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "backend": "nodemon index.js",
+    "frontend": "npm run start",
+    "test:cypress": "start-server-and-test start http://localhost:5000 cypress",
+    "cypress": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/absmohamed/Cloud-Fitness.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/absmohamed/Cloud-Fitness/issues"
+  },
+  "homepage": "https://github.com/absmohamed/Cloud-Fitness#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.7",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.4",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.8.7",
+    "passport-jwt": "^4.0.0",
+    "validator": "^12.1.0",
+    "passport": "^0.4.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}

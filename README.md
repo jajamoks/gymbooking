@@ -107,28 +107,3 @@ The ideal customer for Cloud Fitness is a 18-35 years old individual, living or 
 ![Mobile](Docs/Cloud-Fitness-Wireframes-Mobile(2).png)
 ![Mobile](Docs/Cloud-Fitness-Wireframes-Mobile(3).png)
 ![Mobile](Docs/Cloud-Fitness-Wireframes-Mobile(4).png)
-
-## ScreenShots
-
-### Trello Board
-
-Definitions to Design:
-
-![Desktop](Docs/Trello-Definition-to-Design(1).png)
-![Desktop](Docs/Trello-Definition-to-Design(2).png)
-
-Progress to Testing
-
-![Desktop](Docs/Trello-InProgress-to-Testing(1).png)
-![Desktop](Docs/Trello-InProgress-to-Testing(2).png)
-![Desktop](Docs/Trello-InProgress-to-Testing(3).png)
-
-### Future Enhancements:
-
-![Desktop](Docs/Trello-FutureEnhancements(1).png)
-![Desktop](Docs/Trello-Documents-to-FutureEnhancements(2).png)
-
-### Testing Spreadsheet
-
-![Desktop](Docs/Testing-Spreadsheet(1).png)
-![Desktop](Docs/Testing-Spreadsheet(2).png)
